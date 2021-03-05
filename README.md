@@ -69,7 +69,7 @@ Lab:27 -Django Models
     - TIP: django.urls.reverse will help with that.
 - We can’t easily test SnackDetailView just yet.
   - Can you figure out why?
-  
+
 ### Getting Started
 Clone this repository to your local machine.
 
@@ -80,4 +80,4 @@ $ git clone : https://github.com/neba9/snack_tracker_project.git
 ---
 
 ------------------------------
-For more information on Markdown: https://github.com/neba9/django-snacks/blob/master/README.md
+For more information on Markdown: https://github.com/neba9/snack_tracker_project/blob/master/README.md
