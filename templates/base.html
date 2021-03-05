@@ -7,9 +7,17 @@
   <title>Snacks Tracker</title>
 </head>
 <body>
+  <header>
+    <nav>
+
+      <a href=" {% url 'snack_list' %} "> <h1> Snack List </h1> </a>
+    
+    </nav>
+  </header>
   {% block content %}
-      <h1> Snacks Tracker </h1>
+      
   {% endblock content %}
   
 </body>
 </html>
+
